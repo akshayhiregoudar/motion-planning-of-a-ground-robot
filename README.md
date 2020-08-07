@@ -1,2 +1,2 @@
 # Path-Planning-Robot
-This is a group project created as a part of MEEN 683 course at TAMU.
+Optimization of a multi-objective path planning algorithm of a ground robot in a warehouse.
